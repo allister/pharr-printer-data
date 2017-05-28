@@ -1,0 +1,14 @@
+---
+title: "Resources"
+output: github_document
+---
+
+### Resources
+Two outside resources were used for converting the XML files to JSON and CSV.
+
+##### Code Beautify
+XML files were converted to JSON via [Code Beautify](http://www.codebeautify.org).
+
+##### Convert CSV
+XML files were converted to CSV via [Convert CSV](http://www.convertcsv.com/xml-to-csv.htm).
+
