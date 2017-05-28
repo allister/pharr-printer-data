@@ -19,6 +19,7 @@ ingestedXML_df <- xmlToDataFrame(printer_data)
 xmlScraper <- scrape(file = xmlIngest, isXML = T)
 
 # From Zeds CSV
+## sourced from https://github.com/rstudio/webinars/blob/master/11-Getting-Data-into-R/3-tidyr.R
 ## Load csv & see what we get
 permitsLog_ingest <- read_csv('Printer_Log-Permits.csv')
 # done ingesting -- need code in R for XML to CSV conversion TODO
