@@ -12,3 +12,6 @@ XML files were converted to JSON via [Code Beautify](http://www.codebeautify.org
 #### Convert CSV
 XML files were converted to CSV via [Convert CSV](http://www.convertcsv.com/xml-to-csv.htm).
 
+### Links
+[Google Style Guide](http://google.github.io/styleguide/Rguide.xml)
+[Advanced R Style Guide](http://adv-r.had.co.nz/Style.html)
