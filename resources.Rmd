@@ -1,0 +1,14 @@
+---
+title: "Resources"
+output: github_document
+---
+
+## Resources
+Resources outside of R were used for converting the XML files to JSON and CSV.
+* [Code Beautify](http://www.codebeautify.org)
+* [Convert CSV](http://www.convertcsv.com/xml-to-csv.htm).
+
+## Links
+Links to useful resources will appear here.
+* [Google Style Guide](http://google.github.io/styleguide/Rguide.xml)
+* [Advanced R Style Guide](http://adv-r.had.co.nz/Style.html)
